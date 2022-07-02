@@ -29,7 +29,7 @@ You can find more of my work at:
 $ perl -v
 ```
 
-* _[Install Perl](https://learn.perl.org/installing) if necessary.
+* _[Install Perl](https://learn.perl.org/installing) if necessary._
 
 * _Fork the project to your own Github repository if you plan to make
   changes._
@@ -52,7 +52,7 @@ $ perl ./hello-world
 
 The code which originated in this project is covered by the [ISC
 License](https://choosealicense.com/licenses/isc). See the file called
-[LICENSE](https://github.com/k9w/*/blob/main/LICENSE) in
+[LICENSE](https://github.com/k9w/perl-hello-world/blob/main/LICENSE) in
 this same folder for distribution and liability terms as well as
 copyright holder info.
 
