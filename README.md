@@ -1,19 +1,21 @@
-# First Python Application
+# First Perl Program
 
-#### My first published repo in the Python programming language.
+#### My first published repo in the Perl programming language.
 
 #### By _Kevin Williams_
 
 ## Technologies Used
 
-* _[Python](https://www.python.org)_
+* _[Perl](https://www.perl.org)_
 
 ## Description
 
-Welcome to my first published project in [learning Python](https://learn-python.org).
+Welcome to my first published project in [learning Perl](https://learn.perl.org/first_steps).
 
 I started it on Saturday July 2nd 2022. It is designed to be run from
-the command line, with no substantial user interface. 
+the command line, with no substantial user interface. Contrary to the
+instructions linked above, I chose to not use the ```.pl``` file
+extension for the app itself.
 
 You can find more of my work at:
 
@@ -21,13 +23,13 @@ You can find more of my work at:
 
 ## Setup & Use It
 
-* _Check for installed Python on your machine with:_
+* _Check for installed Perl on your machine with:_
 
 ```
-$ python --version
+$ perl -v
 ```
 
-* _Install Python [from the project site](https://www.python.org/downloads) or from your package manager or app store if necessary.
+* _[Install Perl](https://learn.perl.org/installing) if necessary.
 
 * _Fork the project to your own Github repository if you plan to make
   changes._
@@ -38,7 +40,7 @@ $ python --version
 * _Run the app with this command:_
 
 ```
-$ python3 ./hello-world-and-math
+$ perl ./hello-world
 ```
 
 ## Known Bugs
